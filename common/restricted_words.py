@@ -1,0 +1,1 @@
+restricted_words = {"ban", "words", "cringe"}
